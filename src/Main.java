@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Check in 1 Git och Github");
 
         Checkin hello = new Checkin("Hey");
-
+        Branch1 num = new Branch1(5);
 
     }
 }
